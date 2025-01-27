@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Rex Carlo D. Nacario, a 2nd year Industrial Engineer
 
 <!--
 **RCDNacario/RCDNacario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
